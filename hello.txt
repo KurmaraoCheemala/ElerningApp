@@ -1,3 +1,17 @@
 hello 
 hi 
 good morning....
+
+### bug fix 100##
+{
+ hello
+
+
+pending....
+}
+ ## bug 101 {
+
+good morning h
+
+hiow are you?
+}
