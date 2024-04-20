@@ -16,7 +16,13 @@ good morning h
 hiow are you?
 }
 
+<<<<<<< Updated upstream
 ## bug 104
 {
  okay fixed
 }
+=======
+## bug 102{
+
+bfjb}
+>>>>>>> Stashed changes
